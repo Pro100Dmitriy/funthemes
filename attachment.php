@@ -1,3 +1,6 @@
+<!-- Отвечает за открытие медиа файлов на отдельной странице -->
+
+
 <?php get_header(); ?>
     <!-- Content -->
     <div class="blog-center-align top-blog-center">
