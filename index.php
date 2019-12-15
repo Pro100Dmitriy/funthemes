@@ -15,7 +15,7 @@
 
         <!-- Filters Here -->
         <ul class="blog-filter-line">
-            <li><?php _e('Filter By','aletheme'); ?>:</li>
+            <li><?php _e('Filter By','aletheme'); ?>:</li> 
             <li>
                 <a class="filter-caption"><p><?php _e('Author','aletheme'); ?></p><span></span></a>
                 <ul>

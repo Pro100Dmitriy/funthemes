@@ -1,4 +1,8 @@
+
 <?php get_header(); ?>
+
+<?php echo "Hello git";?>
+
     <!-- Content -->
     <div class="contacts-center">
         <div class="content">
